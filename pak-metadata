@@ -1,15 +1,2 @@
-{
-  "version": "1.0",
-  "files": [
-    {
-      "name": "pakchunkRyft2-WindowsClient.pak",
-      "url": "https://raw.githubusercontent.com/ImAlby/ryftversion/main/pakchunkRyft2-WindowsClient.pak",
-      "sha256": "9b76c8ce2bef57163fa0a507cdc610117153f96e93d464520fbc157122714851"
-    },
-    {
-      "name": "pakchunkRyft2-WindowsClient.sig",
-      "url": "https://raw.githubusercontent.com/ImAlby/ryftversion/main/pakchunkRyft2-WindowsClient.sig",
-      "sha256": "a4552004511143632d564e5da325e80395ed9d0248b1ce6717155e83255dfe9c"
-    }
-  ]
-}
+pakchunkRyft2-WindowsClient.pak|https://raw.githubusercontent.com/ImAlby/ryftversion/main/pakchunkRyft2-WindowsClient.pak|9b76c8ce2bef57163fa0a507cdc610117153f96e93d464520fbc157122714851
+pakchunkRyft2-WindowsClient.sig|https://raw.githubusercontent.com/ImAlby/ryftversion/main/pakchunkRyft2-WindowsClient.sig|a4552004511143632d564e5da325e80395ed9d0248b1ce6717155e83255dfe9c
